@@ -10,7 +10,7 @@ Ideal for anyone preparing for job applications, building AI-powered career tool
 
 - 📄 Extracts top skills from job descriptions using spaCy
 - 📊 Visualises results using a word cloud
-- 🧾 Compares extracted JD skills with a sample CV to calculate a match percentage
+- 🧾 Compares extracted Job Description skills with a sample CV to calculate a match percentage
 - 🧠 Fully documented and modular code in Jupyter Notebook format
 
 ---
